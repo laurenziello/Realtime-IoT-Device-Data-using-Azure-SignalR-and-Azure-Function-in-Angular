@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  baseUrl: 'http://localhost:7071/api/'
+  baseUrl: "https://fun-mst-notifiable.azurewebsites.net/api/"
 };
 
 /*
